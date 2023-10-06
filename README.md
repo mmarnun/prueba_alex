@@ -1,2 +1,1 @@
-# ALEX MAQUINA DE MALLORCA
-Un genio
+# prueba_alex
